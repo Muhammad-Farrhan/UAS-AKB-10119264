@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:monitor:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66c49f5c4d55b0417b1be24152f0311e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66c49f5c4d55b0417b1be24152f0311e/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Gas/Biodata-master/caches/transforms-2/files-2.1/76b5945d28e8df0b748115abecb89cd6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ecf350b73e11c8f8bea1a1bfd8f981c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ecf350b73e11c8f8bea1a1bfd8f981c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ecf350b73e11c8f8bea1a1bfd8f981c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/monitor/1.0.2/5764301056100b445e9ba31df7d1b554a55450f6/monitor-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

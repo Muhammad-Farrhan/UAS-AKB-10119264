@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:documentfile:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da42cabb66ea7d10a6bb65833545e5b2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da42cabb66ea7d10a6bb65833545e5b2/res" />
+      <root url="file://$PROJECT_DIR$/../../Gas/Biodata-master/caches/transforms-2/files-2.1/6677c804932ac735cc3ef1b19b2b942b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/196c47b0f040472997d898424c63fd67/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/196c47b0f040472997d898424c63fd67/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/196c47b0f040472997d898424c63fd67/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

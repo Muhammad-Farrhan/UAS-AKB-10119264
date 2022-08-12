@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:drawerlayout:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9de0d2940bbf85f64dbec42d370db1f8/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1177c6fccf4b40b1bf0c1be602cc2bb3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9de0d2940bbf85f64dbec42d370db1f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9de0d2940bbf85f64dbec42d370db1f8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Gas/Biodata-master/caches/transforms-2/files-2.1/4d01c61f4b2cf1f94829c655aa28e51e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1177c6fccf4b40b1bf0c1be602cc2bb3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1177c6fccf4b40b1bf0c1be602cc2bb3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1177c6fccf4b40b1bf0c1be602cc2bb3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

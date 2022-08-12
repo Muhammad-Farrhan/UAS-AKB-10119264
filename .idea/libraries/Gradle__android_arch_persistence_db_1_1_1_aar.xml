@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.persistence:db:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46749a99c8866211e781a3207e81bb83/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46749a99c8866211e781a3207e81bb83/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Gas/Biodata-master/caches/transforms-2/files-2.1/682317cf816333cc61705019e0579d1e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c2735f943222bb296c748e58b411609/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c2735f943222bb296c748e58b411609/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c2735f943222bb296c748e58b411609/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.persistence/db/1.1.1/f248f3c30720922f8e6d8e159b1ac1e8e94b5c43/db-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
